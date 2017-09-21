@@ -18,7 +18,7 @@ _Faceboost requires Chrome [stable or later](https://googlechrome.github.io/curr
 
 **Run it**: follow the [extension quick-start guide](https://goo.gl/Vv4EZ5).
 ## Site is SociUnify
-[SociUnify Complete - It's not extension - Different](52.32.125.221/unify/)
+[SociUnify Complete - It's not extension - Different](http://52.32.125.221/unify/)
 
 ### How do I contribute?
 
